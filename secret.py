@@ -1,8 +1,0 @@
-# Google
-GOOGLE_API_KEY = ''
-
-# Line Official
-CHANNEL_ID = ''
-CHANNEL_SECRET = ''
-CHANNEL_ACCESS_TOKEN = ''
-
